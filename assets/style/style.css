@@ -1,0 +1,32 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    padding-top: 200px;
+    margin: auto;
+}
+
+#counter-title {
+    font-size: 92px;
+    font-weight: 700;
+}
+
+.counter {
+    font-size: 100px;
+}
+
+.btn {
+    font-size: 42px;
+}
