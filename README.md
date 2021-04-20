@@ -4,7 +4,7 @@ Really enjoyed working on JavaScript for the first time. Code can definitely be 
 ## Description
 After learning JavaScript for a few days, I decided to try out a very basic first project. Within a couple of hours, I managed to complete the task. From there, I moved onto my next project with condfidence and a stronger understanding of both programming and JavaScript.
 
-## What I learnt about JavaScript
+## What I learned about JavaScript
 I learned some essential skills within this small project.
 * Importing HTML Elements with the DOM
 * Learning the difference between const / let
